@@ -5,4 +5,4 @@
 * [Error Handling](errors.md)
 * [API Reference](api-reference.md)
 * [GraphQL Reference](graphql-reference.md)
-*
+* [Developer Guide & SDKs](developer-guide.md)
